@@ -5,4 +5,4 @@ Git tracks changes of files
 Github
 Creating a new branch is quick and simple
 --no--off
-;;;;;;;;;;;;;;;;;   ________________________________________________
+;;;;;  ________________________________________________
